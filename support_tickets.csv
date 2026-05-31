@@ -1,0 +1,26 @@
+Ticket,Category,Priority
+Unable to login to account,Account,High
+Forgot password,Account,High
+Password reset link expired,Account,High
+Cannot access profile,Account,Medium
+Account locked after attempts,Account,High
+Payment failed during checkout,Billing,High
+Refund not received,Billing,Medium
+Charged twice for order,Billing,High
+Invoice not generated,Billing,Low
+Subscription payment issue,Billing,High
+Website loading slowly,Technical,Medium
+App crashes on startup,Technical,High
+Error while uploading file,Technical,Medium
+System showing blank page,Technical,High
+Feature not working properly,Technical,Medium
+Order not delivered,Delivery,High
+Tracking information missing,Delivery,Medium
+Package delayed,Delivery,Medium
+Wrong item delivered,Delivery,High
+Delivery address update issue,Delivery,Low
+Need help changing profile picture,General,Low
+How to update account details,General,Low
+Where can I view my orders,General,Low
+How to contact support,General,Low
+Need information about plans,General,Low
